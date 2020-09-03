@@ -15,7 +15,7 @@ I'm leading my [personal blog](https://www.cherkashin.dev/) and [small public on
 ### 📫 How to reach me
 
 [![Gmail Badge](https://img.shields.io/badge/-cherkalexander@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:cherkalexander@gmail.com)](mailto:cherkalexander@gmail.com) 
-[![Gmail Badge](https://img.shields.io/badge/-acherkashin-grey?style=flat&logo=telegram&logoColor=white&link=https://t.me/cherkalexander)](https://t.me/cherkalexander) 
+[![Telegram Badge](https://img.shields.io/badge/-cherkalexander-grey?style=flat&logo=telegram&logoColor=white&link=https://t.me/cherkalexander)](https://t.me/cherkalexander) 
 [![Github Badge](https://img.shields.io/badge/-acherkashin-grey?style=flat&logo=github&logoColor=white&link=https://github.com/acherkashin/)](https://github.com/acherkashin/)
 [![Vk Badge](https://img.shields.io/badge/-cherkashin_dev-grey?style=flat&logo=vk&logoColor=lightblue&link=https://vk.com/cherkashin_dev)](https://vk.com/cherkashin_dev)
 
