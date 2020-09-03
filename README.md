@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there 👋 My name is Cherkashin Alexander
+
+[![Github Badge](https://img.shields.io/badge/-acherkashin-grey?style=flat&logo=github&logoColor=white&link=https://github.com/acherkashin/)](https://github.com/acherkashin/)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=acherkashin&show_icons=true)  
+
+![Profile views](https://gpvc.arturio.dev/acherkashin)  
+
+- 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-cherkalexander@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:cherkalexander@gmail.com)](mailto:cherkalexander@gmail.com) [![Gmail Badge](https://img.shields.io/badge/-acherkashin-grey?style=flat&logo=telegram&logoColor=white&link=https://t.me/cherkalexander)](https://t.me/cherkalexander)
 
 <!--
 **acherkashin/acherkashin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
