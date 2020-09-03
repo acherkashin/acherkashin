@@ -2,6 +2,14 @@
 
 My name is Cherkashin Alexander. I'm from Russian, Kursk.
 
+Technologies which I use:
+
+- C# (ASP.NET Web API, ASP.NET MVC, ASP.NET Core)
+- JavaScript (JQuery, AngularJS, React)
+- TypeScript
+- HTML, CSS, LESS, SASS
+- Git, SVN
+
 I'm leading my [personal blog](https://www.cherkashin.dev/) and [small public on vk](https://vk.com/cherkashin_dev), so you are welcome and feel free to leave a comment there or give me some feedback.
 
 ### 📫 How to reach me
