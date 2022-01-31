@@ -10,7 +10,7 @@ Technologies which I use:
 - HTML, CSS, LESS, SASS
 - Git, SVN
 
-I'm leading my [personal blog](https://www.cherkashin.dev/), [small public on vk](https://vk.com/cherkashin_dev) and [Telegram Channel](https://t.me/cherkashindev/), so you are welcome and feel free to leave a comment there or give me some feedback.
+I'm leading my [personal blog](https://www.cherkashin.dev/) and [Telegram Channel](https://t.me/cherkashindev/), so you are welcome and feel free to leave a comment there or give me some feedback.
 
 ### 📫 How to reach me
 
