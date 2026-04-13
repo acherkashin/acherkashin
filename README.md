@@ -32,10 +32,6 @@ So if you are interested in, please create an issue or send a pull request.
 
 I'm trying to be boy scout last 5 yers, but I give up some times 😩. One more thing which bothers me is perfectionism, but I try to keep it under control 💪, however I don't mind if you get in touch with me and suggest how you tame it 😉.
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=acherkashin&show_icons=true)  
-
-![Profile views](https://gpvc.arturio.dev/acherkashin)  
-
 <!--
 **acherkashin/acherkashin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
